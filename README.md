@@ -1,4 +1,4 @@
-<h1 align="center">Heyya :wave:, I'm Sagar :panda_face: </h1>
+<h1 align="center">Hi there :wave:, I'm Sagar :panda_face: </h1>
 
 <h3 align="center">A passionate JavaScript developer from Ahmedabad, India :man_technologist:</h3>
 
