@@ -1,6 +1,6 @@
 <h1 align="center">Hi there :wave:, I'm Sagar :panda_face: </h1>
 
-<h3 align="center">A passionate JavaScript developer from Ahmedabad, India :man_technologist:</h3>
+<h3 align="center">A Passionate JavaScript Developer From Ahmedabad, India :man_technologist:</h3>
 
 <br/>
 <p><strong>Welcome to my world of code! I'm coder by passion & profession :man_technologist:, cricket crazy by hobby :cricket_game: A calm personality with good command on JavaScript, React, Angular and Node with more than 5 years of experience in IT industry.</strong></p>
