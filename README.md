@@ -21,7 +21,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="85" height="85"/> </a> &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="85" height="85"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="85" height="85"/> </a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="85" height="85"/> </a> &nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-60FB9B8D2B-seeklogo.com.png" alt="nextjs" width="85" height="85"/> </a> &nbsp;&nbsp;
 <a href="https://www.apollographql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="apollographql" width="130" height="85"/> </a> &nbsp;&nbsp;
 <a href="https://angular.io" target="_blank" margin-><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="85" height="85"/> </a> &nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="85" height="85"/> </a> &nbsp;&nbsp;
