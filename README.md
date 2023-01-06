@@ -66,9 +66,11 @@
     />
   </a>
   &nbsp;&nbsp;
+</p>
+<p>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
       alt="html"
       height="85"
     />
@@ -76,7 +78,7 @@
   &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
       alt="css"
       height="85"
     />
@@ -86,6 +88,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"
       alt="scss"
+      height="85"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"
+      alt="tailwindcss"
       height="85"
     />
   </a>
