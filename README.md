@@ -58,6 +58,24 @@
     />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"
+      alt="tailwindcss"
+      height="85"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <!-- <a href="https://angular.io" target="_blank" margin-
+    ><img
+      src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"
+      alt="angular"
+      height="85"
+    />
+  </a>
+  &nbsp;&nbsp;-->
+</p>
+<p>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
@@ -74,28 +92,10 @@
     />
   </a>
   &nbsp;&nbsp;
-  <!-- <a href="https://angular.io" target="_blank" margin-
-    ><img
-      src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"
-      alt="angular"
-      height="85"
-    />
-  </a>
-  &nbsp;&nbsp;-->
-</p>
-<p>
   <a href="https://sass-lang.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"
       alt="scss"
-      height="85"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"
-      alt="tailwindcss"
       height="85"
     />
   </a>
