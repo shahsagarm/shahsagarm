@@ -235,12 +235,12 @@
     />
   </a>
   &nbsp;&nbsp;
-   <a href="https://storybook.js.org/" target="_blank">
+<!--    <a href="https://storybook.js.org/" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
       alt="storybook"
       height="85"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp; -->
 </p>
