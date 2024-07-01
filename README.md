@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web Developer From Ahmedabad, India 👨‍💻</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, cricket crazy by hobby :cricket_game: A calm personality with good command on JavaScript, Typescript, React, Next.js and Node with more than 7 years of experience in IT industry.</strong></p>
+<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, cricket crazy by hobby :cricket_game: A calm personality with good command on JavaScript, Typescript, React, Next.js and Node with more than 8 years of experience in IT industry.</strong></p>
 </br>
 
 <ul>
